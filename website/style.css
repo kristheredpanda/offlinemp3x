@@ -1,0 +1,88 @@
+@font-face{
+    font-family: Microsoft_1987;
+    src: url(resources/fonts/microsoft_1987.ttf);
+}
+
+body{
+    background-color: rgb(200, 200, 200);
+    margin: 0px;
+    padding: 0px;
+}
+
+h1{
+    margin: 0px;
+}
+
+em{
+    margin: 0px;
+}
+
+.body-container{
+    background-color: rgb(236, 236, 236);
+    width: 70%;
+    height: 100vh;
+    margin: auto;
+}
+
+.title-bar{
+    background-color: rgb(11, 13, 150);
+    padding: 10px;
+}
+
+.web-title{
+    color: rgb(255, 255, 255);
+    font-family: Microsoft_1987;
+    font-size: 24px;
+}
+
+.announcement-bar{
+    background-color: rgb(206, 127, 0);
+    text-align: center;
+    border: 2px;
+    border-style: solid;
+    border-color: rgb(101, 64, 5);
+}
+
+.tool-bar{
+    background-color: rgb(136, 136, 180);
+    padding: 2px;
+}
+
+.tb-button{
+    margin-right: 2px;
+}
+
+.first{
+    margin-left: 5px;
+}
+
+.tb-button:hover{
+    margin-right: 2px;
+    text-shadow: 0px 0px 4px rgb(255, 255, 255);
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.tb-separator{
+    margin-right: 2px;
+}
+
+.banner{
+    padding: 20px;
+    margin: 20px;
+    background-color: rgb(192, 205, 118);
+    border: 2px;
+    border-color: rgb(104, 111, 59);
+}
+
+.b-image{
+    width: 150px;
+    height: 150px;
+    float: left;
+    display: flex;
+}
+
+.b-header{
+    font-size: 18px;
+    margin-left: 20px;
+}

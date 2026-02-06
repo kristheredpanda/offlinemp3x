@@ -1,7 +1,4 @@
-# OfflineMP3X
-Play your favourite tunes without internet.
-
-OfflineMP3X v1.0.0 Release Notes
+# OfflineMP3X v1.0.0 Release Notes
 Right now it's a basic MP3 player, it features:
 
 • AutoPlay, to automatically move onto the next song.

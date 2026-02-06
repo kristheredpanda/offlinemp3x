@@ -1,2 +1,2 @@
-# offlinemp3x
+# OfflineMP3X
 Play your favourite tunes without internet.

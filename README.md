@@ -1,8 +1,11 @@
-# OfflineMP3X v1.1.5 Release Notes
-The application has had the following done in this version:
+# OfflineMP3X v1.1.6 Release Notes
+A slight visual improvement, that's about it in this update.
 ________________________
-• Shuffle: This feature now shuffles like Spotify does, goes to a random song instead of re-organizing the entire list.
+_Before (Version 1.1.5)_
+![alt text](https://github.com/kristheredpanda/offlinemp3x/blob/main/readme-resources/1.png?raw=true)
 
-• SeekBar: I have replaced the non-interactive default ProgressBar control with a custom-made TrackBar control made to look like the Spotify seek bar, making for a much cleaner look.
-________________________
-I have also removed the toggle for AutoPlay and baked the functionality into the program, so it goes to the next song by default.
+_After (Version 1.1.6 [without rounded corners])_
+![alt text](https://github.com/kristheredpanda/offlinemp3x/blob/main/readme-resources/2.png?raw=true)
+
+_After (Version 1.1.6 [with rounded corners])_
+![alt text](https://github.com/kristheredpanda/offlinemp3x/blob/main/readme-resources/3.png?raw=true)

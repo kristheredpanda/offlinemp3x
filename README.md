@@ -1,6 +1,6 @@
 # OfflineMP3X v1.1.6 Release Notes
 
-[![View Repository](https://shields.io)](https://github.com/kristheredpanda/OfflineMP3X-source_code)
+[![View Repository](https://img.shields.io/badge/github-repo-blue?logo=github)](https://github.com/kristheredpanda/OfflineMP3X-source_code)
 
 A slight visual improvement, that's about it in this update.
 ________________________
